@@ -2,3 +2,6 @@ Project details:
 Subject - Penapp
 Code - Java
 Version - 21
+
+Sleep timer:30sec
+Load runner:5sec
