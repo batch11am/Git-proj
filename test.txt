@@ -2,3 +2,8 @@ Project details:
 Subject - Penapp
 Code - Java
 Version - 21
+
+Sleep timer: 60sec
+Load runner: 10sec
+Swift pass: 5sec
+Test Phase: 120sec
