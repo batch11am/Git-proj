@@ -1,4 +1,4 @@
-Hello 
-Welcome to our project
-
-Thanks for allowing me to this project
+Project details:
+Subject - Penapp
+Code - Java
+Version - 21
